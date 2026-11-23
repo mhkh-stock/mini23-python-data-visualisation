@@ -1,0 +1,53 @@
+line_id,product_name,category,quantity,unit_price_pkr,line_revenue_pkr
+1,Wireless Mouse,Electronics,2,2500,5000
+2,Notebook Set,Stationery,3,1200,3600
+3,Mechanical Keyboard,Electronics,1,8500,8500
+4,Ceramic Mug Set,Kitchen,2,3200,6400
+5,Office Chair,Furniture,1,18000,18000
+6,Wireless Mouse,Electronics,1,2500,2500
+7,Laptop Stand,Electronics,1,4500,4500
+8,Dinner Set 24pc,Kitchen,1,14500,14500
+9,Mechanical Keyboard,Electronics,1,8500,8500
+10,Desk Lamp,Furniture,2,4200,8400
+11,Notebook Set,Stationery,5,1200,6000
+12,Wireless Mouse,Electronics,2,2500,5000
+13,Ceramic Mug Set,Kitchen,1,3200,3200
+14,Laptop Stand,Electronics,1,4500,4500
+15,Dinner Set 24pc,Kitchen,1,14500,14500
+16,Desk Lamp,Furniture,1,4200,4200
+17,Office Chair,Furniture,1,18000,18000
+18,Notebook Set,Stationery,2,1200,2400
+19,Ceramic Mug Set,Kitchen,3,3200,9600
+20,Mechanical Keyboard,Electronics,1,8500,8500
+21,Wireless Mouse,Electronics,1,2500,2500
+22,Notebook Set,Stationery,4,1200,4800
+23,Wireless Mouse,Electronics,1,2500,2500
+24,Desk Lamp,Furniture,1,4200,4200
+25,Dinner Set 24pc,Kitchen,1,14500,14500
+26,Laptop Stand,Electronics,1,4500,4500
+27,Mechanical Keyboard,Electronics,1,8500,8500
+28,Ceramic Mug Set,Kitchen,2,3200,6400
+29,Wireless Mouse,Electronics,3,2500,7500
+30,Office Chair,Furniture,1,18000,18000
+31,Notebook Set,Stationery,2,1200,2400
+32,Dinner Set 24pc,Kitchen,1,14500,14500
+33,Desk Lamp,Furniture,1,4200,4200
+34,Ceramic Mug Set,Kitchen,2,3200,6400
+35,Mechanical Keyboard,Electronics,1,8500,8500
+36,Desk Lamp,Furniture,2,4200,8400
+37,Notebook Set,Stationery,3,1200,3600
+38,Wireless Mouse,Electronics,2,2500,5000
+39,Laptop Stand,Electronics,1,4500,4500
+40,Wireless Mouse,Electronics,1,2500,2500
+41,Notebook Set,Stationery,4,1200,4800
+42,Office Chair,Furniture,1,18000,18000
+43,Desk Lamp,Furniture,1,4200,4200
+44,Ceramic Mug Set,Kitchen,1,3200,3200
+45,Wireless Mouse,Electronics,1,2500,2500
+46,Mechanical Keyboard,Electronics,1,8500,8500
+47,Notebook Set,Stationery,2,1200,2400
+48,Ceramic Mug Set,Kitchen,1,3200,3200
+49,Ceramic Mug Set,Kitchen,1,3200,3200
+50,Ceramic Mug Set,Kitchen,1,3200,3200
+51,Notebook Set,Stationery,1,1200,1200
+52,Ceramic Mug Set,Kitchen,1,3200,3200
